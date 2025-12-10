@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI CV Analyzer",
+  "description": "An intelligent agent that analyzes your CV against a job description to provide a match score, identify strengths, and suggest improvements.",
+  "requestFramePermissions": []
+}
